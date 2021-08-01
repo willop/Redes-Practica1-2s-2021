@@ -16,7 +16,7 @@ En este repositorio es una guia rapida de configuracion para la creacion de una 
 <img src="./IMG/Paso3.jpg" width="400" height="auto">
 
 -   Cuando la API se encuentre inicializada procederemos a instanciar una nueva maquina virtual, para ello nos dirigimos al menu de lado izquierdo y seleccionamos la opcion de Nueva Instancia de VM.
-<img src="./IMG/Paso4.JPG" width="400" height="auto">
+<img src="./IMG/Paso4.jpg" width="400" height="auto">
 
 -   Procedemos a configurar el servidor de nuestra maquina virtual, para ello utilizamos la siguiente configuración.
     -  Nombre: redes1-prac1
@@ -34,11 +34,11 @@ En este repositorio es una guia rapida de configuracion para la creacion de una 
        - [x] Permitir trafico HTTPS 
 
 -   Luego de configurar la maquina virtual procederemos a hacer click en el boton de crear.
-<img src="./IMG/Paso5.JPG" width="400" height="auto">
-<img src="./IMG/Paso5-1.JPG" width="400" height="auto">
+<img src="./IMG/Paso5.jpg" width="400" height="auto">
+<img src="./IMG/Paso5-1.jpg" width="400" height="auto">
 
 -   Luego de la previa configuracion se muestra el estado en el que se encuentra nuestra maquina virtual creada, una vez que esta tenga el estado activo (verde) nos dirigimos a la consola de la maquina virtual haciendo click en SSH dentro de la columna "Conectar".
-<img src="./IMG/Paso6.JPG" width="400" height="auto">
+<img src="./IMG/Paso6.jpg" width="400" height="auto">
 
 -   Se nos despliega la consola de nuestra maquina virtual, procederemos a actualizar los paquetes de la maquina virtual utilizando el comando:
 <img src="./IMG/Paso7.jpg" width="400" height="auto">
@@ -77,7 +77,7 @@ sudo wget https://cubaelectronica.com/OpenVPN/openvpn-install.sh
   - Google (ingresar opcion 3)
 ---
 
-<img src="./IMG/Paso11.jpg" width="400" height="auto"> 
+<img src="./IMG/Paso11.JPG" width="400" height="auto"> 
 
 -   Se nos solicita por ultimo el nombre para el certificado del cliente el cual debe segir las reglas que se indican:
     -   Use solo una palabra
@@ -86,13 +86,13 @@ sudo wget https://cubaelectronica.com/OpenVPN/openvpn-install.sh
 luego de ingresar el nombre presionamos cualquier tecla para crear el certificado.
 
 -   Cuando el proceso de la creacion del certificado halla finalizado nos muestra la ruta donde se genero el certificado el cual procederemos a descargarlo, para esto nos dirigiremos a configuracione en el icono de un engrane ubicado en la parte superior derecha y seleccionando la opcion de "Descargar el archivo". Se nos despliega una ventana con un cuadro de texto en el cual colocaremos la ruta donde de guardo el certificado y automaticamente empezara la descarga del mismo.
-<img src="./IMG/Paso17.jpg" width="400" height="auto">
+<img src="./IMG/Paso17.JPG" width="400" height="auto">
 
 
 #  Firewall
 
 -   Para configurar el la entrada y salida de datos nos digimos al servicio de "Redes de VPC" y seleccionamos la opcion de Firewall.
-<img src="./IMG/Paso12.jpg" width="400" height="auto">
+<img src="./IMG/Paso12.JPG" width="400" height="auto">
 
 -   Procederemos a crear las reglas para el firewall de entrada y salida haciendo click en la opcion de crear nueva regla.
 <img src="./IMG/Paso13.jpg" width="400" height="auto">
@@ -139,17 +139,17 @@ luego de ingresar el nombre presionamos cualquier tecla para crear el certificad
 ---
 #   Descarga de software OpenVPN
 -   Para la descarga y utilizacion de este software nos dirigiremos a su pagina oficial [OpenVPN](https://openvpn.net/vpn-client/) y daremos click en "Download OpenVPN Connect" 
-<img src="./IMG/Paso18.jpg" width="410" height="auto">
+<img src="./IMG/Paso18.JPG" width="410" height="auto">
 
 -   Una vez instalado el programa podremos observar la siguiente interfaz
 <center>
-<img src="./IMG/Paso19.jpg" width="150" height="auto">
+<img src="./IMG/Paso19.JPG" width="150" height="auto">
 </center>
 -   Para la importacion de el certificado para cada uno de los usuarios daremos click en la opcion de "Import File" y seleccionamos el archivo .ovpn 
 <p>
 <center>
-<img src="./IMG/Paso20-1.jpg" width="150" height="auto">
-<img src="./IMG/Paso20-2.jpg" width="150" height="auto">
+<img src="./IMG/Paso20-1.JPG" width="150" height="auto">
+<img src="./IMG/Paso20-2.JPG" width="150" height="auto">
 </center>
 </p>
 <br><br>
@@ -158,14 +158,14 @@ luego de ingresar el nombre presionamos cualquier tecla para crear el certificad
 #   Conexion a nuestra red WLAN
 -   Se configurara el Firewall de nuestro equipo, para ello nos direigiremos al buscador de windows e ingresamos "Firewall". 
 <center>
-<img src="./IMG/Paso21.jpg" width="400" height="auto">
+<img src="./IMG/Paso21.JPG" width="400" height="auto">
 </center>
 
 -   Desactivaremos Windows defender pare ello nos dirigiremos a la opcion de lado iquierda de la ventana "Activar o desactivar el Firewall de windows Defender" y seleccionamos en ambas configuraciones
     -   Desactivar
 <center>
-<img src="./IMG/Paso22.jpg" width="400" height="auto">
-<img src="./IMG/Paso23.jpg" width="400" height="auto">
+<img src="./IMG/Paso22.JPG" width="400" height="auto">
+<img src="./IMG/Paso23.JPG" width="400" height="auto">
 </center>
 
 - Procederemos a conectar el vpn con el certificado cargado en el programa.
