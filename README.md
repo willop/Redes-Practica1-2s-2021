@@ -200,11 +200,9 @@ ping 10.8.0.1
     -   Usuario2(Wilfred): 10.8.0.3
     -   Usuario3(Hector): 10.8.0.4
 <p>
-<center>
-<img src="./IMG/Paso27-1.jpg" width="400" height="auto">
+<img src="./IMG/Paso27-1.jpg" width="400" height="auto" align="center">
 <br><br>
-<img src="./IMG/Paso27-2.jpg" width="400" height="auto">
+<img src="./IMG/Paso27-2.jpg" width="400" height="auto" align="center">
 <br><br>
-<img src="./IMG/Paso27-3.jpg" width="400" height="auto">
-</center>
+<img src="./IMG/Paso27-3.jpg" width="400" height="auto" align="center">
 </p>
