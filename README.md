@@ -37,7 +37,14 @@ En este repositorio es una guia rapida de configuracion para la creacion de una 
 <img src="./IMG/Paso5.jpg" width="400" height="auto">
 <img src="./IMG/Paso5-1.jpg" width="400" height="auto">
 
--   Luego de la previa configuracion se muestra el estado en el que se encuentra nuestra maquina virtual creada, una vez que esta tenga el estado activo (verde) nos dirigimos a la consola de la maquina virtual haciendo click en SSH dentro de la columna "Conectar".
+-   Luego de la previa configuracion se muestra el estado en el que se encuentra nuestra maquina virtual creada, 
+
+
+
+
+
+
+que esta tenga el estado activo (verde) nos dirigimos a la consola de la maquina virtual haciendo click en SSH dentro de la columna "Conectar".
 <img src="./IMG/Paso6.jpg" width="400" height="auto">
 
 -   Se nos despliega la consola de nuestra maquina virtual, procederemos a actualizar los paquetes de la maquina virtual utilizando el comando:
@@ -147,10 +154,8 @@ luego de ingresar el nombre presionamos cualquier tecla para crear el certificad
 </center>
 -   Para la importacion de el certificado para cada uno de los usuarios daremos click en la opcion de "Import File" y seleccionamos el archivo .ovpn 
 <p>
-<center>
-<img src="./IMG/Paso20-1.JPG" width="150" height="auto">
-<img src="./IMG/Paso20-2.JPG" width="150" height="auto">
-</center>
+<img src="./IMG/Paso20-1.JPG" width="150" height="auto" align="center">
+<img src="./IMG/Paso20-2.JPG" width="150" height="auto" align="center">
 </p>
 <br><br>
 
