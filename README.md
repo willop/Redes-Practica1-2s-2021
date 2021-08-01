@@ -7,7 +7,7 @@ En este repositorio es una guia rapida de configuracion para la creacion de una 
 
 - Para la utilizacion de los servicios de Google Cloud debemos contar con una cuenta en esta plataforma de [Google Cloud](https://cloud.google.com/google/googlecloud)  la cual se puede crear con una cuenta de Gmail
 <img src="./IMG/Paso1.JPG" width="400" height="auto">
-<img src="./IMG/Paso1-1.JPG" width="400" height="auto">
+<img src="./IMG/Paso1-1.jpg" width="400" height="auto">
 
 -   Para la creacion de esta red se utilizara una maquina virtual por lo cual se creara un nuevo proyecto en esta plataforma.
 <img src="./IMG/Paso2.jpg" width="400" height="auto">
