@@ -209,3 +209,6 @@ ping 10.8.0.1
 <img src="./IMG/Paso27-2.jpg" width="400" height="auto" align="center">
 <img src="./IMG/Paso27-3.jpg" width="400" height="auto" align="center">
 </p>
+<br><br>
+##Diagrama
+<img src="./IMG/Diagrama.jpg" width="400" height="auto" align="center">
