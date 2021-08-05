@@ -211,4 +211,4 @@ ping 10.8.0.1
 </p>
 <br><br>
 ##Diagrama
-<img src="./IMG/Diagrama.jpg" width="400" height="auto" align="center">
+<img src="./IMG/Diagrama.JPG" width="400" height="auto" align="center">
