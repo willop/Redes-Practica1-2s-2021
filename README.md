@@ -1,3 +1,8 @@
+#Integrantes
+-   JAVIER OSWALDO MIRÓN CIFUENTES      201602694
+-   WILFRED STEWART PÉREZ SOLORZANO     201408419
+-   HECTOR JOSUE OROZCO SALAZAR         201314296
+
 #   Manual de configuracion 
 ##  Configuracion de red privada usando Google Cloud
 En este repositorio es una guia rapida de configuracion para la creacion de una red privada lo cual simula una red WLAN utilizando los servicios de Google Cloud y una OpenVPN para permitir la conecticidad entre distintos usuarios/dispositivos y llevar de manera segura  operaciones.
