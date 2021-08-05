@@ -5,7 +5,7 @@ En este repositorio es una guia rapida de configuracion para la creacion de una 
 #  Google Cloud
 ##  Configuracion
 
-- Para la utilizacion de los servicios de Google Cloud debemos contar con una cuenta en esta plataforma de [Google Cloud](https://cloud.google.com/google/googlecloud)  la cual se puede crear con una cuenta de Gmail
+- Para la utilizacion de los servicios de Google Cloud debemos contar con una cuenta en esta plataforma de [Google Cloud](https://cloud.google.com/gcp/?utm_source=google&utm_medium=cpc&utm_campaign=na-US-test-all-en-dr-bkws-all-all-trial-e-dr-1009892&utm_content=text-ad-none-any-DEV_c-CRE_491349594127-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Storage%20~%20Cloud%20Storage_Cloud-KWID_43700060017921803-kwd-6458750523&utm_term=KW_google%20cloud-ST_google%20cloud&gclid=EAIaIQobChMIt6Th8PCY8gIVAeKzCh0PKweJEAAYASAAEgKajvD_BwE&gclsrc=aw.ds)  la cual se puede crear con una cuenta de Gmail
 <img src="./IMG/Paso1.JPG" width="400" height="auto">
 <img src="./IMG/Paso1-1.jpg" width="400" height="auto">
 
